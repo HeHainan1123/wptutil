@@ -1,6 +1,6 @@
 # WebPageTest
 
-This is a tool to run speed test in http://wpt-server.qa.msvc-ams1.qa.au.ecg.so/ from commandline.
+This is a tool to run speed test in https://www.webpagetest.org/ from commandline.
 All the tests will cover both chrome and iPhone6
 For iPhone6, the speed is configured as `3G Fast`
 
@@ -29,4 +29,4 @@ Options:
 
 ```
 
-You can find your tests from http://wpt-server.qa.msvc-ams1.qa.au.ecg.so/testlog.php?days=1&filter=&all=on after executed the command.
+You can find your tests from https://www.webpagetest.org/testlog.php?days=1&filter=&all=on after executed the command.
