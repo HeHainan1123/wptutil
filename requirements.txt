@@ -1,0 +1,5 @@
+git+https://github.com/ultralightweight/sutils.git
+requests
+bs4
+datetime
+argparse

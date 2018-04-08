@@ -1,0 +1,22 @@
+{
+    "env": {
+      "qa1": "https://www.test.qa1.com.au",
+      "qa2": "https://www.test.qa2.com.au"
+
+    },
+    "paths": {
+        "home": "/",
+        "srp": "/srp",
+        "vip": "/vip"
+    },
+    "connectivity": {
+        "iPhone6": {
+            "speed": "3GFast",
+            "emulateMobile": true
+        },
+        "chrome": {
+            "speed": "DSL",
+            "emulateMobile": false
+        }
+    }
+}
